@@ -1,6 +1,0 @@
-{
-  "headers": {
-    "Content-Type": "application/json"
-  },
-  "body": "{\"products\": \"[product1, product2, product3]\"}"
-}

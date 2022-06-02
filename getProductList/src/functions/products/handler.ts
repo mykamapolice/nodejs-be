@@ -1,14 +1,14 @@
 import type { ValidatedEventAPIGatewayProxyEvent } from '@libs/api-gateway';
 import { formatJSONResponse } from '@libs/api-gateway';
 import { middyfy } from '@libs/lambda';
-
 import schema from './schema';
+const data = require('../../../../../data/mock.json')
 
-const hello: ValidatedEventAPIGatewayProxyEvent<typeof schema> = async (event) => {
+const products: ValidatedEventAPIGatewayProxyEvent<typeof schema> = async () => {
+
   return formatJSONResponse({
-    message: `Hello ${event.body.name}, welcome to the exciting Serverless world!`,
-    event,
+    ...data
   });
 };
 
-export const main = middyfy(hello);
+export const main = middyfy(products);
