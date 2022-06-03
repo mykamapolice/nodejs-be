@@ -5,11 +5,11 @@ import schema from './schema';
 const data = require('../../data.json');
 
 const getProductById: ValidatedEventAPIGatewayProxyEvent<typeof schema> = async (event) => {
-  const id = event.pathParameters.id
+  const {productId} = event.pathParameters
 
-  const item = data.find(item => item.id === id)
+  const item = JSON.parse(JSON.stringify(data)).find(item => Number(item.id) === Number(productId))
   return formatJSONResponse({
-    item
+    item,
   });
 };
 
