@@ -1,66 +1,66 @@
 [
   {
     "count": 4,
-    "description": "Short Product Description1",
-    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
+    "description": "The Mexican mushrooms are ideal for people who want to experience a trip for the first time. ",
+    "id": "1",
     "price": 20,
-    "title": "Magic box 1",
-    "url": ""
+    "title": "Mexican",
+    "url": "https://www.growkit.com/wp-content/uploads/2016/08/Growkit_Mexican_NEW-etiket_1200cc.jpg"
   },
   {
     "count": 6,
-    "description": "Short Product Description3",
-    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a0",
+    "description": "The Thai mushroom is known for the happy milkshakes the Thai population makes from it. ",
+    "id": "2",
     "price": 23,
-    "title": "Magic box 2",
-    "url": ""
+    "title": "Thai",
+    "url": "https://www.growkit.com/wp-content/uploads/2016/08/Growkit_Thai_NEW-etiket_1200cc.jpg"
   },
   {
     "count": 7,
-    "description": "Short Product Description2",
-    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a2",
+    "description": "The Colombian mushrooms provide a stronger trip than for example the Mexican and Thai.",
+    "id": "3",
     "price": 22,
-    "title": "Magic box 3",
-    "url": ""
+    "title": "Colombian",
+    "url": "https://www.growkit.com/wp-content/uploads/2016/08/Growkit_Colombian_NEW-etiket_1200cc.jpg"
   },
   {
     "count": 12,
-    "description": "Short Product Description7",
-    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a1",
+    "description": "The strong McKennaii mushroom will open visual doors for you.",
+    "id": "4",
     "price": 21,
-    "title": "Magic box 4",
-    "url": ""
+    "title": "McKennaii",
+    "url": "https://www.growkit.com/wp-content/uploads/2016/08/Growkit_McKennaii_NEW-etiket_1200cc.jpg"
   },
   {
     "count": 7,
-    "description": "Short Product Description2",
-    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a3",
+    "description": "The B+ is famous because of his big mushrooms. It’s a large and strong mushroom and it gives a nice intense trip.",
+    "id": "5",
     "price": 23,
-    "title": "Magic box 5",
-    "url": ""
+    "title": "MGrow Kit B+",
+    "url": "https://shroom.it/img/p/2/4/24-large_default.jpg"
   },
   {
     "count": 8,
-    "description": "Short Product Description4",
-    "id": "7567ec4b-b10c-48c5-9345-fc73348a80a1",
+    "description": "The Ecuadorian mushrooms are among the connoisseurs in great demand. ",
+    "id": "6",
     "price": 15,
-    "title": "Magic box 6",
-    "url": ""
+    "title": "Ecuadorian",
+    "url": "https://www.growkit.com/wp-content/uploads/2016/08/Growkit_Ecuadorian_NEW-etiket_1200cc.jpg"
   },
   {
     "count": 2,
-    "description": "Short Product Descriptio1",
-    "id": "7567ec4b-b10c-48c5-9445-fc73c48a80a2",
+    "description": "The golden teacher teaches you about different dimensions and higher atmospheres.",
+    "id": "7",
     "price": 10,
-    "title": "Magic box 7",
-    "url": ""
+    "title": "Golden Teacher",
+    "url": "https://www.growkit.com/wp-content/uploads/2016/08/Growkit_Golden_teacher_NEW-etiket_1200cc.jpg"
   },
   {
     "count": 3,
-    "description": "Short Product Description7",
-    "id": "7567ec4b-b10c-45c5-9345-fc73c48a80a1",
+    "description": "Albino is the newest GrowKit in our range",
+    "id": "8",
     "price": 5,
-    "title": "Magic box 8",
-    "url": ""
+    "title": "Albino",
+    "url": "https://www.growkit.com/wp-content/uploads/2016/08/Growkit_Albino_NEW-etiket_2100cc.jpg"
   }
 ]
